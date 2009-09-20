@@ -23,7 +23,7 @@
 		_imageStack = [[CPArray alloc] init];
 		
 		for (i=1; i<=[self frames]; i++) {
-			var img = [[CPImage alloc] initWithContentsOfFile:@"Frameworks/CPSpinner/images/" + aStyle + "_" + i + ".png" size:CGSizeMake(aFrame.size.width, aFrame.size.height)];
+			var img = [[CPImage alloc] initWithContentsOfFile:@"Frameworks/CPSpinner/Resources/" + aStyle + "_" + i + ".png" size:CGSizeMake(aFrame.size.width, aFrame.size.height)];
 			_imageStack = [_imageStack arrayByAddingObject:img];
 		}
 	}
