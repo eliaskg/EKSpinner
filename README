@@ -3,6 +3,9 @@ CPSpinner for Cappuccino
 
 This is an extension for the Cappuccino framework to display 'loading-indicator-spinners' dynamically to any background color without having to create gif-animations.
 
+A live demonstration can be seen here:
+http://www.thisagree.com/CPSpinner
+
 
 Installation:
 ------------------------
