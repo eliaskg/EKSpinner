@@ -1,24 +1,24 @@
-CPSpinner for Cappuccino
+EKSpinner for Cappuccino
 ---------------------------------------------
 
 This is an extension for the Cappuccino framework to display 'loading-indicator-spinners' dynamically to any background color without having to create gif-animations.
 
 A live demonstration can be seen here:
-http://www.thisagree.com/CPSpinner
+http://www.thisagree.com/EKSpinner
 
 
 Installation:
 ------------------------
-Simply put the 'CPSPinner' folder in your 'Frameworks' directory and add the following line to the top of your application's AppController:
+Simply put the 'EKSpinner' folder in your 'Frameworks' directory and add the following line to the top of your application's AppController:
 
-@import "Frameworks/CPSpinner/CPSpinner.j"
+@import "Frameworks/EKSpinner/EKSpinner.j"
 
 
 Usage:
 ------------------------
-This is an example for adding a CPSpinner to your view:
+This is an example for adding a EKSpinner to your view:
 
-var spinner = [[CPSpinner alloc] initWithFrame:CGRectMake(40, 40, 18, 18) andStyle:@"medium_white"];
+var spinner = [[EKSpinner alloc] initWithFrame:CGRectMake(40, 40, 18, 18) andStyle:@"medium_white"];
 [spinner setIsSpinning:YES];
 [contentView addSubview:spinner];
 
