@@ -37,17 +37,17 @@ Notify that the faster the interval the more system performance the spinner will
 The following styles are provided:
 
 __14x14__
-* small_white
-* small_gray
-* small_black
+	small_white
+	small_gray
+	small_black
 
 __18x18__
-* medium_white
-* medium_gray
-* medium_black
+	medium_white
+	medium_gray
+	medium_black
 
 __30x30__
-* big_white
-* big_gray
-* big_black
+	big_white
+	big_gray
+	big_black
 
