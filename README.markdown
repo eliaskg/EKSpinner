@@ -3,8 +3,7 @@ EKSpinner
 
 This is an extension for the [Cappuccino](http://www.cappuccino.org) framework to display 'loading-indicator-spinners' dynamically to any background color without having to create gif-animations.
 
-A live demonstration can be seen here:
-http://www.thisagree.com/EKSpinner
+A live demonstration can be seen [here](http://www.thisagree.com/EKSpinner).
 
 
 ## Installation
