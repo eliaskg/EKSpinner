@@ -10,7 +10,7 @@ A live demonstration can be seen [here](http://www.thisagree.com/EKSpinner).
 
 Simply put the 'EKSpinner' folder in your 'Frameworks' directory and add the following line to the top of your application's AppController:
 
-@import "Frameworks/EKSpinner/EKSpinner.j"
+	@import "Frameworks/EKSpinner/EKSpinner.j"
 
 
 ## Usage
