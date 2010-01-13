@@ -121,7 +121,7 @@
 	if ([self imageNumber] == [self frames]) {
 		[self setImageNumber:1];
 	} else {
-		[self setImageNumber:[self imageNumber] + 1];
+		[self setImageNumber:[self imageNumber]+1];
 	}
 }
 
