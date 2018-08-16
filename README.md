@@ -27,7 +27,7 @@ The default animation interval is 100ms but you can also set your own by using t
 
 	[spinner setInterval:200];
 
-This has to be done before the the spinner was activated by `setSpinning: YES`.
+This has to be done before the spinner was activated by `setSpinning: YES`.
 Notify that the faster the interval the more system performance the spinner will need.
 
 
